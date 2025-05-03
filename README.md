@@ -1,6 +1,7 @@
 # User-Embedding-Clustering-Analysis
 
 ## Project Overview
+(this project was for the 2025 NYU Datathon in collaboration with Corner)
 This project analyzes user interactions with locations (places) by leveraging embedding vectors. It includes the following functionalities:
 
 * Data Integration and Preprocessing: Merges user and place data from multiple CSV files and processes embedding vectors for analysis.
